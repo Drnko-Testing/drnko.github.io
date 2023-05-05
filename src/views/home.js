@@ -51,7 +51,6 @@ const Home = (props) => {
             >
               <PlayStore className="home-component"></PlayStore>
             </a>
-            <AppStore rootClassName="app-store-root-class-name"></AppStore>
           </div>
           <div data-role="BurgerMenu" className="home-burger-menu">
             <svg viewBox="0 0 1024 1024" className="home-menu1">
@@ -253,7 +252,6 @@ const Home = (props) => {
               >
                 <PlayStore className="home-component7"></PlayStore>
               </a>
-/*              <AppStore rootClassName="app-store-root-class-name1"></AppStore>*/
             </div>
           </div>
           <div className="home-container18">
