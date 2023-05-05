@@ -253,7 +253,7 @@ const Home = (props) => {
               >
                 <PlayStore className="home-component7"></PlayStore>
               </a>
-              <AppStore rootClassName="app-store-root-class-name1"></AppStore>
+/*              <AppStore rootClassName="app-store-root-class-name1"></AppStore>*/
             </div>
           </div>
           <div className="home-container18">
